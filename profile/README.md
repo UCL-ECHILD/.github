@@ -9,5 +9,5 @@ that joins together existing health, education and social care information for a
 
 We are using this linked data to better understand how education affects children’s health, and how health affects children’s education.
  
-To start, we will use the data to understand how the COVID-19 pandemic and lockdown affected children who need extra support. We will also look 
+We have used the data to understand how the COVID-19 pandemic and lockdown affected children who need extra support. We have also looked 
 at the quality of the linked data to find out its strengths and limitations for research.
