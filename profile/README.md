@@ -1,13 +1,16 @@
-# UCL-ECHILD
+# ECHILD
 
-We are the UCL ECHILD team.
+The [ECHILD research database](https://www.ucl.ac.uk/child-health/research/population-policy-and-practice-research-and-teaching-department/cenb-clinical-20) 
+joins together existing health, education and social care information for all children in England for the first time.
 
-The [ECHILD project](https://www.ucl.ac.uk/child-health/research/population-policy-and-practice-research-and-teaching-department/cenb-clinical-20) 
-is a research study run by 
-[University College London](https://www.ucl.ac.uk/child-health/research/population-policy-and-practice-research-and-teaching-department/cenb) 
-that joins together existing health, education and social care information for all children in England for the first time.
-
-We are using this linked data to better understand how education affects children’s health, and how health affects children’s education.
- 
-We have used the data to understand how the COVID-19 pandemic and lockdown affected children who need extra support. We have also looked 
-at the quality of the linked data to find out its strengths and limitations for research.
+The ECHILD project is led by [University College London](https://www.ucl.ac.uk/child-health/echild) in collaboration with the 
+[London School of Hygiene & Tropical Medicine](https://www.lshtm.ac.uk/) 
+and the [Institute for Fiscal Studies](https://www.ifs.org.uk/), 
+in partnership with the 
+[Department of Health and Social Care](https://www.gov.uk/government/organisations/department-of-health-and-social-care) 
+and the 
+[Department for Education](https://www.gov.uk/government/organisations/department-for-education), 
+working with 
+[NHS England](https://www.england.nhs.uk/)
+and the 
+[Office for National Statistics](https://www.ons.gov.uk/).
