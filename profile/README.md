@@ -27,10 +27,10 @@ GitHub Organisation.
 
 ### Disclaimer
 
-The ECHILD project team is not responsible for the accuracy or 
+The ECHILD project team and its funders are not responsible for the accuracy or 
 appropriateness of shared code or analyses. Any views expressed 
 are those of the author(s) and not necessarily those of the ECHILD 
-project team.
+project team or its funders.
 
 Contributors to the UCL ECHILD GitHub Organisation have agreed to abide by the
 [Community Guidelines](https://github.com/UCL-ECHILD/.github/blob/main/CODE_OF_CONDUCT.md). These Guidelines also detail our reporting and complaints process (see [Enforcement](https://github.com/UCL-ECHILD/.github/blob/main/CODE_OF_CONDUCT.md#enforcement)).
