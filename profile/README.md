@@ -1,6 +1,6 @@
 # ECHILD
 
-The [ECHILD research database](https://www.ucl.ac.uk/child-health/research/population-policy-and-practice-research-and-teaching-department/cenb-clinical-20) 
+The [ECHILD research database](https://www.echild.ac.uk) 
 joins together existing health, education and social care information for all children in England for the first time.
 
 The ECHILD project team is led by [University College London](https://www.ucl.ac.uk/child-health/echild) in collaboration with the 
