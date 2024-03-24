@@ -1,10 +1,12 @@
 ## Security & Data Protection
 
-The UCL-ECHILD project team takes data security and research integrity seriously, this include all of the repositories hosted under the [UCL-ECHILD GitHub Organisation](https://github.com/UCL-ECHILD).
+The UCL-ECHILD project team takes data security and research integrity seriously, this include all of the repositories hosted under the 
+[UCL-ECHILD](https://github.com/UCL-ECHILD) and [ECHILD Analyses](https://github.com/ECHILD-analyses) GitHub Organisation.
 
 ## Reporting Security or Data Protection Issues 
 
-If you believe you have found a security vulnerability or data protection breach in any UCL-ECHILD hosted repository, please report it to us through coordinated disclosure.
+If you believe you have found a security vulnerability or data protection breach in any UCL-ECHILD or ECHILD-analyses hosted repository, 
+please report it to us through coordinated disclosure.
 
 **Please do not report suspected security vulnerabilities or data protection breaches through public GitHub issues, discussions, or pull requests.**
 
