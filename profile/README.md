@@ -15,7 +15,7 @@ working with
 and the 
 [Office for National Statistics](https://www.ons.gov.uk/).
 
-### Contents of this GitHub organisation
+### Contents of this organisation
 
 The ECHILD research database can be accessed by Accredited 
 Researchers from outside the ECHILD project team for approved projects.
@@ -23,7 +23,7 @@ Researchers from outside the ECHILD project team for approved projects.
 These researchers are encouraged to share analytical code and 
 experiences of using the ECHILD research database within 
 repositories, fora, and webpages hosted within the UCL ECHILD 
-GitHub Organisation.
+organisation.
 
 ### Disclaimer
 
@@ -32,5 +32,5 @@ appropriateness of shared code or analyses. Any views expressed
 are those of the author(s) and not necessarily those of the ECHILD 
 project team or its funders.
 
-Contributors to the UCL ECHILD GitHub Organisation have agreed to abide by the
+Contributors to the UCL ECHILD organisation have agreed to abide by the
 [Community Guidelines](https://github.com/UCL-ECHILD/.github/blob/main/CODE_OF_CONDUCT.md). These Guidelines also detail our reporting and complaints process (see [Enforcement](https://github.com/UCL-ECHILD/.github/blob/main/CODE_OF_CONDUCT.md#enforcement)).
