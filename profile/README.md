@@ -15,15 +15,30 @@ working with
 and the 
 [Office for National Statistics](https://www.ons.gov.uk/).
 
-### Contents of this organisation
-
 The ECHILD research database can be accessed by Accredited 
 Researchers from outside the ECHILD project team for approved projects.
 
-These researchers are encouraged to share analytical code and 
-experiences of using the ECHILD research database within 
-repositories, fora, and webpages hosted within the UCL ECHILD 
-organisation.
+## Getting involved 👷‍♀️👷
+
+There are many ways for ECHILD users and potential users to get invovled:
+
+#### 💬 Discussions
+We encourage all ECHILD research database users to collaborate by asking 
+and answering questions and discussing *best practice* solutions in 
+[Discussions](https://github.com/orgs/UCL-ECHILD/discussions).
+
+#### ✏️ Raising Issues and Making Edits
+The [source code](https://github.com/UCL-ECHILD/docs.echild.ac.uk-website) for the 
+[ECHILD user guide](https://doc.echild.ac.uk) and other documentation is hosted 
+within this organisation. Please let us know if you spot any errors by reporting an 
+[issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) 
+or, even, submitting a correction via a 
+[pull request](https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-github.html#contributing-to-other-projects).
+
+#### 👐 Sharing code
+All ECHILD research database users are encouraged to share their analytical code 
+which we will compile in our [@ECHILD-analyses](https://github.com/ECHILD-analyses) 
+organsiation.
 
 ### Disclaimer
 
@@ -33,4 +48,6 @@ are those of the author(s) and not necessarily those of the ECHILD
 project team or its funders.
 
 Contributors to the UCL ECHILD organisation have agreed to abide by the
-[Community Guidelines](https://github.com/UCL-ECHILD/.github/blob/main/CODE_OF_CONDUCT.md). These Guidelines also detail our reporting and complaints process (see [Enforcement](https://github.com/UCL-ECHILD/.github/blob/main/CODE_OF_CONDUCT.md#enforcement)).
+[Community Guidelines](https://github.com/UCL-ECHILD/.github/blob/main/CODE_OF_CONDUCT.md). 
+These Guidelines also detail our reporting and complaints process (see 
+[Enforcement](https://github.com/UCL-ECHILD/.github/blob/main/CODE_OF_CONDUCT.md#enforcement)).
