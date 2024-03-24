@@ -3,6 +3,9 @@
 The UCL-ECHILD project team takes data security and research integrity seriously, this include all of the repositories hosted under the 
 [UCL-ECHILD](https://github.com/UCL-ECHILD) and [ECHILD Analyses](https://github.com/ECHILD-analyses) GitHub Organisation.
 
+**⚠️: All ECHILD users are reminded that only outputs cleared by the ONS SRS Statistical Support team may be used outside of the secure 
+environment in which the ECHILD research database is hosted.**
+
 ## Reporting Security or Data Protection Issues 
 
 If you believe you have found a security vulnerability or data protection breach in any UCL-ECHILD or ECHILD-analyses hosted repository, 
