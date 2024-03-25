@@ -29,7 +29,7 @@ and answering questions and discussing *best practice* solutions in
 
 #### ✏️ Raising Issues and Making Edits
 The [source code](https://github.com/UCL-ECHILD/docs.echild.ac.uk-website) for the 
-[ECHILD user guide](https://doc.echild.ac.uk) and other documentation is hosted 
+[ECHILD user guide](https://docs.echild.ac.uk) and other documentation is hosted 
 within this organisation. Please let us know if you spot any errors by reporting an 
 [issue](https://github.com/UCL-ECHILD/docs.echild.ac.uk-website/issues) 
 ([ℹ️ how to](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)) 
