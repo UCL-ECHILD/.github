@@ -27,6 +27,8 @@ We encourage all ECHILD research database users to collaborate by asking
 and answering questions and discussing *best practice* solutions in 
 [Discussions](https://github.com/orgs/UCL-ECHILD/discussions).
 
+Watch our video demo on [how to get started with Discussions](https://mediacentral.ucl.ac.uk/Player/2e5937hh).
+
 #### 👐 Sharing code on [@ECHILD-analyses](https://github.com/ECHILD-analyses)
 All ECHILD research database users are encouraged to share their analytical code 
 which we will compile in our [@ECHILD-analyses](https://github.com/ECHILD-analyses) 
