@@ -27,7 +27,7 @@ We encourage all ECHILD research database users to collaborate by asking
 and answering questions and discussing *best practice* solutions in 
 [Discussions](https://github.com/orgs/UCL-ECHILD/discussions).
 
-#### 👐 Sharing code - [@ECHILD-analyses](https://github.com/ECHILD-analyses)
+#### 👐 Sharing code on [@ECHILD-analyses](https://github.com/ECHILD-analyses)
 All ECHILD research database users are encouraged to share their analytical code 
 which we will compile in our [@ECHILD-analyses](https://github.com/ECHILD-analyses) 
 organsiation.
