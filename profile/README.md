@@ -38,9 +38,12 @@ organsiation.
 The [source code](https://github.com/UCL-ECHILD/docs.echild.ac.uk-website) for the 
 [ECHILD user guide](https://docs.echild.ac.uk) and other documentation is hosted 
 within this organisation. Please let us know if you spot any errors by reporting an 
-[issue](https://github.com/UCL-ECHILD/docs.echild.ac.uk-website/issues) 
-([ℹ️ how to](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)) 
-or, even, submitting a correction via a [pull request](https://github.com/UCL-ECHILD/docs.echild.ac.uk-website/compare) 
+[issue](https://github.com/UCL-ECHILD/docs.echild.ac.uk-website/issues). Watch our video demo 
+on [how to get started with Issues](https://mediacentral.ucl.ac.uk/Player/FIEHFeJh) or read 
+the [GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue).
+
+If you feel able to, please also consider submitting a correction via a 
+[pull request](https://github.com/UCL-ECHILD/docs.echild.ac.uk-website/compare) 
 ([ℹ️ how to](https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-github.html#contributing-to-other-projects)).
 
 ### Disclaimer
