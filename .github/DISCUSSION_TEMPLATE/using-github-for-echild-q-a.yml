@@ -2,14 +2,14 @@ body:
   - type: markdown
     attributes:
       value: |
-        [!CAUTION]
-        You MUST NOT enter any information from the ONS SRS which has not been cleared for release by the ONS SRS output checking team.
+        > [!CAUTION]
+        > You MUST NOT enter any information from the ONS SRS which has not been cleared for release by the ONS SRS output checking team.
 
-        [!IMPORTANT]
-        Ensure you ask only one question per discussion. But feel free to start as many Q&A discussions as you need.
+        > [!IMPORTANT]
+        > Ensure you ask only one question per discussion. But feel free to start as many Q&A discussions as you need.
 
-        [!TIP]
-        You may find your answer more quickly by searching through previous Q&As.
+        > [!TIP]
+        > You may find your answer more quickly by searching through previous Q&As.
   - type: textarea
     id: body
     attributes:
