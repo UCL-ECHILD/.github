@@ -1,0 +1,27 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please create a new discussion for each question you have.
+  - type: input
+    id: title
+    attributes:
+      label: Add a short title for your question
+      placeholder: "Title"
+    validations:
+      required: true
+  - type: textarea
+    id: body
+    attributes:
+      label: Describe your question clearly
+      placeholder: "Question"
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Pre-submission checklist
+      options:
+        - label: You have checked answers to similar questions in existing Q&As?
+          required: true
+        - label: You are sure you have not entered any information which must not be removed from the ONS SRS?
+          required: true
