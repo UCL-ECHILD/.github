@@ -9,7 +9,7 @@ body:
         > Ensure you ask only one question per discussion. But feel free to start as many Q&A discussions as you need.
 
         > [!TIP]
-        > You may find your answer more quickly by searching through previous Q&As.
+        > You may find your answer more quickly by searching through existing Q&As.
   - type: textarea
     id: body
     attributes:
@@ -25,6 +25,5 @@ body:
           required: true
         - label: You have asked only one question in the textbox above?
           required: true
-        - label: You have checked answers to similar questions in existing Q&As?
+        - label: You have checked answers to similar questions amongst existing Q&As?
           required: true
-
