@@ -1,0 +1,29 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > [!CAUTION]
+        > You MUST NOT enter any information from the ONS SRS unless this has been cleared for release by the ONS SRS output checking team.
+
+        > [!IMPORTANT]
+        > Ensure you ask only one question per discussion. But feel free to start as many Q&A discussions as you need.
+
+        > [!TIP]
+        > You may find your answer more quickly by searching through existing Q&As.
+  - type: textarea
+    id: body
+    attributes:
+      label: Describe your question clearly
+      placeholder: "Only one question per discussion"
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Pre-submission checklist
+      options:
+        - label: I confirm I have not entered any information from within the ONS SRS (or only information that has been cleared for release by the ONS SRS output checking team).
+          required: true
+        - label: I confirm I have asked only one question in the textbox above.
+          required: true
+        - label: I confirm I have checked for similar questions amongst existing Q&As.
+          required: true
