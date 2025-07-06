@@ -2,26 +2,29 @@ body:
   - type: markdown
     attributes:
       value: |
-        Please create a new discussion for each question you have.
-  - type: input
-    id: title
-    attributes:
-      label: Add a short title for your question
-      placeholder: "Title"
-    validations:
-      required: true
+        [!CAUTION]
+        You MUST NOT enter any information from the ONS SRS which has not been cleared for release by the ONS SRS output checking team.
+
+        [!IMPORTANT]
+        Ensure you ask only one question per discussion. But feel free to start as many Q&A discussions as you need.
+
+        [!TIP]
+        You may find your answer more quickly by searching through previous Q&As.
   - type: textarea
     id: body
     attributes:
       label: Describe your question clearly
-      placeholder: "Question"
+      placeholder: "Only one question per discussion"
     validations:
       required: true
   - type: checkboxes
     attributes:
       label: Pre-submission checklist
       options:
+        - label: You are sure you have not entered any information which has not been cleared for release by the ONS SRS output checking team?
+          required: true
+        - label: You have asked only one question in the textbox above?
+          required: true
         - label: You have checked answers to similar questions in existing Q&As?
           required: true
-        - label: You are sure you have not entered any information which must not be removed from the ONS SRS?
-          required: true
+
